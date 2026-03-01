@@ -1,31 +1,29 @@
 # 🚀 Portfolio Web Personal - Alejandro Ríos
 
-## 📖 Descripción del Proyecto
-[cite_start]Este repositorio contiene el código fuente de mi Portfolio Intermodular para el ciclo de Desarrollo de Aplicaciones Web (DAW)[cite: 1, 39]. Es una *Landing Page* vanguardista diseñada bajo el enfoque *mobile-first*, que utiliza animaciones complejas de scroll para crear una experiencia inmersiva e interactiva.
+¡Hola! 👋 Este es el repositorio de mi Portfolio Personal. 
 
-## 🔗 Enlaces Importantes
-* [cite_start]**🎨 Prototipo en Figma (Sistema de Diseño y UI):** [Pega aquí el enlace a tu Figma] [cite: 43]
-* [cite_start]**🌐 Web Publicada (GitHub Pages):** [Pega aquí el enlace de tu web una vez publicada] [cite: 44]
+He creado esta página web como Proyecto Intermodular para mi ciclo de Desarrollo de Aplicaciones Web (DAW). Mi objetivo era hacer algo diferente, moderno y minimalista, así que le puse mucho cariño al diseño y a las animaciones.
 
-## 💻 Tecnologías Utilizadas
-* **HTML5:** Estructuración semántica y accesible.
-* [cite_start]**Tailwind CSS v4:** Maquetación responsiva, *glassmorphism* (efecto cristal) y variables personalizadas compiladas para producción[cite: 36, 37].
-* **JavaScript (Vanilla):** Lógica del DOM y control de eventos.
-* **GSAP & ScrollTrigger:** Motor de animaciones inmersivas basadas en el scroll del usuario (efecto pin y zoom de ventanas).
+## 🔗 Enlaces del Proyecto
+* **🎨 Prototipo en Figma:** [https://www.figma.com/design/IRRpuK9IxH0x4PHfe3Gfuh/Portfolio_Dise%C3%B1o?m=auto&t=cOX57ymmisgyoE8w-1]
+* **🌐 Mi web publicada:** [https://alejandro-rhbits.github.io/Portfolio-Alejandro/]
 
-## 📸 Capturas del Sitio Web Publicado
-[cite_start]*(A continuación se muestra cómo se visualiza el diseño en diferentes dispositivos)* [cite: 47]
+## 💻 ¿Qué he utilizado para hacerlo?
+Para este proyecto decidí salir un poco de lo básico y usar herramientas más modernas:
+* **HTML5 y JavaScript (Vanilla):** Para toda la estructura y la lógica de la página.
+* **Tailwind CSS:** Me ayudó muchísimo a maquetar rápido, adaptar la web a móviles y darle efectos de cristal a las tarjetas.
+* **GSAP y ScrollTrigger:** Esta es la "magia" de la página. Las usé para hacer el efecto de la ventana que hace zoom y todo lo que se mueve cuando haces scroll.
 
-> **Nota:** Para que las imágenes se vean, guarda unas capturas de tu web terminada en una carpeta llamada `assets` y cambia las rutas de abajo por los nombres de tus imágenes.
+## 📸 Así se ve la web
+*(Aquí dejo unas capturas de cómo quedó el resultado final)*
 
-![Vista Escritorio](./assets/captura-escritorio.png) 
+> **Nota:** Las imágenes están en la carpeta `assets`.
+
+![Vista Ordenador](./assets/captura-escritorio.png) 
 ![Vista Móvil](./assets/captura-movil.png)
 
-## 📚 Bibliografía y Referencias
-[cite_start]Durante la fase de diseño y desarrollo, se consultaron los siguientes recursos[cite: 48, 49]:
-* [cite_start]**Diseño y Figma:** Tutoriales sobre creación de sistemas de diseño, variables, tokens y paletas de colores[cite: 51, 53].
-* [cite_start]**Inspiración:** Ejemplos de portfolios de desarrolladores web[cite: 59, 61].
-* **Desarrollo Frontend:**
-  * [cite_start]Documentación de Tailwind CSS (Diseño responsivo y variables)[cite: 57, 58].
-  * Documentación de GSAP (GreenSock Animation Platform).
-* [cite_start]**Despliegue:** Documentación oficial para desplegar sitios estáticos con GitHub Pages[cite: 66].
+## 📚 Recursos y Referencias
+Para montar todo esto, además de lo aprendido en clase, me apoyé en:
+* Tutoriales de diseño en Figma (para crear la paleta de colores y organizar las variables).
+* La documentación oficial de Tailwind CSS.
+* Mucha lectura en la documentación de GSAP para conseguir que las animaciones no se rompieran en los móviles.
